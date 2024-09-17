@@ -4,3 +4,4 @@ menu ={
   'kebab'     :450,
   
 }
+print (menu)
