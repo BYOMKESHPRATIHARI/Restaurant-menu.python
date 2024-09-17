@@ -1,6 +1,6 @@
 menu ={
-  'pizza'     :80;
-  'biryani'   :240;
-  'kebab'     :450;
+  'pizza'     :80,
+  'biryani'   :240,
+  'kebab'     :450,
   
 }
