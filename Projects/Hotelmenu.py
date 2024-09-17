@@ -4,4 +4,4 @@ menu ={
   'kebab'     :450,
   
 }
-print (menu)
+print ("pizza : Rs 80.00\n biryani: Rs240.00\n kebab: Rs450.00")
